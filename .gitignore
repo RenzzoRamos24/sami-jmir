@@ -1,0 +1,23 @@
+# Datos de participantes: nunca en git
+**/respuestas_*
+**/*_con_nombres*
+datos/
+data/
+exports/
+backups/
+backup/
+reports/
+uploads/
+*.sql.gz
+*.json.gz
+*.db
+*.sqlite
+*.sqlite3
+.env
+venv/
+__pycache__/
+*.pyc
+project/node_modules
+node_modules/
+project/dist/
+*:Zone.Identifier
